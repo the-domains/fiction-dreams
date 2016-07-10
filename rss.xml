@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fiction Dreams]]></title>
+        <description><![CDATA[Fiction Dreams]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jul 2016 20:23:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Last of the Firedrakes by Farah Oomerbhoy]]></title>
+            <description><![CDATA[<article><h1>The Last of the Firedrakes by Farah Oomerbhoy</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cafafc36-361f-434b-ab0c-479a1a7d1d66.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/cafafc36-361f-434b-ab0c-479a1a7d1d66.png</link>
+            <guid isPermaLink="false">06a494fe-d7b8-48c5-b4da-6ec854dff72e</guid>
+            <pubDate>Sun, 10 Jul 2016 20:23:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
