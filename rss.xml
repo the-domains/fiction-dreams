@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Fiction Dreams]]></title>
         <description><![CDATA[Fiction Dreams]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fiction-dreams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 20:23:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jul 2016 20:24:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fiction-dreams/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beyond the Rising Tide by Sarah Beard]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8b4c06b-1a1c-4993-8643-8610b641a53e.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/72639f5b-ae57-4bc5-b8fb-aed63f18be89.jpg</link>
+            <guid isPermaLink="false">33a90473-a5e4-40a3-bf21-700175e1ce34</guid>
+            <pubDate>Sun, 10 Jul 2016 20:23:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Last of the Firedrakes by Farah Oomerbhoy]]></title>
             <description><![CDATA[<article><h1>The Last of the Firedrakes by Farah Oomerbhoy</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cafafc36-361f-434b-ab0c-479a1a7d1d66.png"></article>]]></description>
